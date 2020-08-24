@@ -1,3 +1,5 @@
 # excess file 
 *
 !**/src
+!.gitignore
+!README.md
