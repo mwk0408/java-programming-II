@@ -1,5 +1,3 @@
-### The second part of Java programming MOOC (2020) by University of Helsinki
+### The second part of [Java programming MOOC (2020) by University of Helsinki](https://java-programming.mooc.fi/)
 
-**Link: https://java-programming.mooc.fi/**
-
-**part 8-12 are finished**
+**parts 8-12 are finished**
